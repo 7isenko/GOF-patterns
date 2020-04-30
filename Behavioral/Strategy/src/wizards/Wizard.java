@@ -1,4 +1,8 @@
-public abstract class Wizard {
+package wizards;
+
+import spells.SpellBehaviour;
+
+public abstract class Wizard implements SpellBehaviour {
     SpellBehaviour spellBehaviour;
 
     public Wizard() {

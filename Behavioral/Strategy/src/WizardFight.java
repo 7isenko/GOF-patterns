@@ -1,3 +1,8 @@
+import spells.PoisonSpellBehaviour;
+import wizards.ChineseWizard;
+import wizards.ElderWizard;
+import wizards.Wizard;
+
 public class WizardFight {
     public static void main(String[] args) {
         Wizard elderWizard = new ElderWizard();
