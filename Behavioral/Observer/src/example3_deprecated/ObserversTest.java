@@ -1,4 +1,4 @@
-package example3;
+package example3_deprecated;
 
 public class ObserversTest {
     public static void main(String[] args) {

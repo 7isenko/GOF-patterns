@@ -1,4 +1,4 @@
-package example3;
+package example3_deprecated;
 
 import java.util.Observable;
 
