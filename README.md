@@ -1,4 +1,3 @@
 # GOF-patterns
-Every GOF-pattern in use
-
-- [ ] добавить элементы кода в UML в Strategy
+My little self-studying project repository.\
+I want to store here GOF-patterns and their combinations.
