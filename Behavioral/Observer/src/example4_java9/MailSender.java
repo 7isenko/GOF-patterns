@@ -1,4 +1,4 @@
-package example4_Java9;
+package example4_java9;
 
 import java.beans.PropertyChangeListener;
 import java.beans.PropertyChangeSupport;
