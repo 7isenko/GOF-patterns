@@ -1,7 +1,7 @@
 package example1;
 
 public class ConcreteCommand implements Command {
-    Receiver receiver;
+    private final Receiver receiver;
 
     public ConcreteCommand(Receiver receiver) {
         this.receiver = receiver;

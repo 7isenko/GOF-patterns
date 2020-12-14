@@ -1,4 +1,4 @@
-package example1;
+package example3_lambdas;
 
 public class Receiver {
     public void action() {

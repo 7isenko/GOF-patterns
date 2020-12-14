@@ -1,4 +1,4 @@
-package example2;
+package example3_lambdas;
 
 public class InvokerMultiplied {
     private final Command[] commands;
@@ -7,14 +7,16 @@ public class InvokerMultiplied {
         int num = 3; // yes
         commands = new Command[num];
 
-        Command noCommand = new NoCommand();
         for (int i = 0; i < num; i++) {
-            commands[i] = noCommand;
+            commands[i] = () -> {
+            };
         }
     }
+
     public void setCommand(int slot, Command command) {
         commands[slot] = command;
     }
+
     public void call(int slot) {
         commands[slot].execute();
     }

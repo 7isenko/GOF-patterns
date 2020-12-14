@@ -1,7 +1,7 @@
 package example1;
 
 public class Invoker {
-    Command slot;
+    private Command slot;
 
     public Invoker(Command slot) {
         this.slot = slot;
