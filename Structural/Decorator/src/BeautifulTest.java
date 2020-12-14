@@ -8,7 +8,7 @@ public class BeautifulTest {
         barb = new Marbles(barb);
         score(barb);
 
-        Toy spider = new SpiderMan();
+        Toy spider = new SpiderManToy();
         spider = new Dress(spider);
         spider = new Marbles(spider);
         spider = new Pony(spider);

@@ -1,6 +1,6 @@
-public class SpiderMan extends Toy {
+public class SpiderManToy extends Toy {
 
-    public SpiderMan() {
+    public SpiderManToy() {
         name = "SpiderMan";
     }
 

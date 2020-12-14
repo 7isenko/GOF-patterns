@@ -1,5 +1,5 @@
 public class Pony extends ToyDecorator {
-    Toy toy;
+    private final Toy toy;
 
     public Pony(Toy toy) {
         this.toy = toy;

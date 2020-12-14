@@ -1,5 +1,5 @@
 public class Marbles extends ToyDecorator {
-    Toy toy;
+    private final Toy toy;
 
     public Marbles(Toy toy) {
         this.toy = toy;

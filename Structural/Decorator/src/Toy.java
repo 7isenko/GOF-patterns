@@ -1,6 +1,6 @@
 public abstract class Toy {
 
-    String name = "A toy";
+    protected String name = "A toy";
 
     public String getName() {
         return name;
