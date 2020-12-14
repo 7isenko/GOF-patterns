@@ -1,6 +1,6 @@
 package example;
 
-public class Barbie extends Toy {
+public class Barbie extends BaseToy {
 
     public Barbie() {
         name = "example.Barbie";

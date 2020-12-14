@@ -2,10 +2,10 @@ package example.wizards;
 
 import example.spells.SpellBehaviour;
 
-public abstract class Wizard {
+public abstract class BaseWizard {
     protected SpellBehaviour spellBehaviour;
 
-    public Wizard() {
+    public BaseWizard() {
     }
 
     public void performSpell() {

@@ -1,6 +1,6 @@
 package example;
 
-public abstract class Toy {
+public abstract class BaseToy {
 
     protected String name = "A toy";
 

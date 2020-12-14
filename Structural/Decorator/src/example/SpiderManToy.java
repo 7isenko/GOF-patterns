@@ -1,6 +1,6 @@
 package example;
 
-public class SpiderManToy extends Toy {
+public class SpiderManToy extends BaseToy {
 
     public SpiderManToy() {
         name = "SpiderMan";

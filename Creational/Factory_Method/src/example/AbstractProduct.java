@@ -1,6 +1,6 @@
 package example;
 
-public abstract class Product {
+public abstract class AbstractProduct {
     String stuff = "stuff";
     public void doStuff() {
         System.out.println(stuff);

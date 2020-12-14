@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Structural/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Structural/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Behavioral/Command/Command.iml" filepath="$PROJECT_DIR$/Behavioral/Command/Command.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structural/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Structural/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/Facade/Facade.iml" filepath="$PROJECT_DIR$/Structural/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/Factory_Method/Factory_Method.iml" filepath="$PROJECT_DIR$/Creational/Factory_Method/Factory_Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/GOF-patterns.iml" filepath="$PROJECT_DIR$/.idea/GOF-patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Behavioral/Observer/Observer.iml" filepath="$PROJECT_DIR$/Behavioral/Observer/Observer.iml" />

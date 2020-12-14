@@ -10,7 +10,9 @@ public class John implements PropertyChangeListener {
     public void propertyChange(PropertyChangeEvent evt) {
         if ("newspaper".equals(evt.getPropertyName())) {
             this.newspaper = (String) evt.getNewValue();
-        } else throw new IllegalStateException("Unexpected value: " + evt.getPropertyName());
+        } else {
+            throw new IllegalStateException("Unexpected value: " + evt.getPropertyName());
+        }
         react();
     }
 

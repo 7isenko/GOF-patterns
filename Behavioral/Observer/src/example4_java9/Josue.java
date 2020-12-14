@@ -22,6 +22,7 @@ public class Josue implements PropertyChangeListener {
         switch (propertyName) {
             case "newspaper" ->  System.out.println("Josue: I like this fresh newspaper: " + newspaper);
             case "comics" -> System.out.println("Josue: I like this fresh comics: " + comics);
+            default -> throw new IllegalStateException("Observer do not support the property named: " + propertyName);
         }
     }
 

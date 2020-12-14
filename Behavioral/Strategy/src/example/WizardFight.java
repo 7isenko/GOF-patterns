@@ -3,12 +3,12 @@ package example;
 import example.spells.PoisonSpellBehaviour;
 import example.wizards.ChineseWizard;
 import example.wizards.ElderWizard;
-import example.wizards.Wizard;
+import example.wizards.BaseWizard;
 
 public class WizardFight {
     public static void main(String[] args) {
-        Wizard elderWizard = new ElderWizard();
-        Wizard chineseWizard = new ChineseWizard();
+        BaseWizard elderWizard = new ElderWizard();
+        BaseWizard chineseWizard = new ChineseWizard();
 
         elderWizard.performSpell();
         chineseWizard.performSpell();

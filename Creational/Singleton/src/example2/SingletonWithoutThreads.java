@@ -8,8 +8,9 @@ public class SingletonWithoutThreads {
     }
 
     public static SingletonWithoutThreads getInstance() {
-        if (uniqueInstance == null)
+        if (uniqueInstance == null) {
             uniqueInstance = new SingletonWithoutThreads();
+        }
         return uniqueInstance;
     }
 }

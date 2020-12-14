@@ -1,9 +1,9 @@
 package example;
 
-public class Marbles extends ToyDecorator {
-    private final Toy toy;
+public class Marbles extends AbstractToyDecorator {
+    private final BaseToy toy;
 
-    public Marbles(Toy toy) {
+    public Marbles(BaseToy toy) {
         this.toy = toy;
     }
 

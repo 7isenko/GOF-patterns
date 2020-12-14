@@ -19,7 +19,9 @@ public class MailSender implements Subject {
     @Override
     public void removeObserver(Observer o) {
         int i = observers.indexOf(o);
-        if (i >= 0) observers.remove(i);
+        if (i >= 0) {
+            observers.remove(i);
+        }
     }
 
     @Override
