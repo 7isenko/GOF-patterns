@@ -12,7 +12,7 @@ public class CheckAdapterTest {
         testPhrases(adaptor);
     }
 
-    public static void testPhrases(ILowerCasePhrases toTest){
+    private static void testPhrases(ILowerCasePhrases toTest){
         System.out.println(toTest.hello());
         System.out.println(toTest.goodbye());
         System.out.println("===tested===");
