@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Creational/Abstract_Factory/Abstract_Factory.iml" filepath="$PROJECT_DIR$/Creational/Abstract_Factory/Abstract_Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Structural/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Behavioral/Command/Command.iml" filepath="$PROJECT_DIR$/Behavioral/Command/Command.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structural/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Structural/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/Factory_Method/Factory_Method.iml" filepath="$PROJECT_DIR$/Creational/Factory_Method/Factory_Method.iml" />
