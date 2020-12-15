@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/Behavioral/Observer/Observer.iml" filepath="$PROJECT_DIR$/Behavioral/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Creational/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Behavioral/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Behavioral/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/Template Method/Template Method.iml" filepath="$PROJECT_DIR$/Behavioral/Template Method/Template Method.iml" />
     </modules>
   </component>
 </project>
