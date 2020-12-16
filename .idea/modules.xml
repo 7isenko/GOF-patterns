@@ -5,10 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/Creational/Abstract_Factory/Abstract_Factory.iml" filepath="$PROJECT_DIR$/Creational/Abstract_Factory/Abstract_Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structural/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Structural/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Behavioral/Command/Command.iml" filepath="$PROJECT_DIR$/Behavioral/Command/Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/Composite/Composite.iml" filepath="$PROJECT_DIR$/Structural/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structural/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Structural/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structural/Facade/Facade.iml" filepath="$PROJECT_DIR$/Structural/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/Factory_Method/Factory_Method.iml" filepath="$PROJECT_DIR$/Creational/Factory_Method/Factory_Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/GOF-patterns.iml" filepath="$PROJECT_DIR$/.idea/GOF-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iterator/Iterator.iml" filepath="$PROJECT_DIR$/Iterator/Iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Behavioral/Observer/Observer.iml" filepath="$PROJECT_DIR$/Behavioral/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Creational/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Behavioral/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Behavioral/Strategy/Strategy.iml" />
